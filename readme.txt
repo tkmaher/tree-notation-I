@@ -3,7 +3,7 @@ otherseas 2022
 
 TO RUN
 --------
-Navigate to the current folder and run "tree-notation-I" from that folder using the command line.
+Download and unzip "tree-notation-I".zip. Navigate to the current folder and run "tree-notation-I" from that folder using the command line.
 
 CONTROLS
 --------
