@@ -3,7 +3,7 @@ otherseas 2022
 
 TO RUN
 --------
-Download and unzip "tree-notation-I".zip. Navigate to the current folder and run "tree-notation-I" from that folder using the command line.
+Download and unzip "tree-notation-I".zip. Navigate to the current folder and run "tree-notation-I" from that folder using the command line. [NOTE: may require installation of SDL2, SDL2.mixer, and SDL2.image libraries]
 
 CONTROLS
 --------
